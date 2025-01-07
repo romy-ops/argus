@@ -1,12 +1,10 @@
 export const environment = {
   firebase: {
-    apiKey: 'API_KEY',
-    authDomain: 'PROJECT_ID.firebaseapp.com',
-    databaseURL: 'https://PROJECT_ID.firebaseio.com',
-    projectId: 'PROJECT_ID',
-    storageBucket: 'PROJECT_ID.appspot.com',
-    messagingSenderId: 'SENDER_ID',
-    appId: 'APP_ID',
-    measurementId: 'G-MEASUREMENT_ID',
+    apiKey: "AIzaSyCAQBMIVrklig9S-P-BJ8-tdJ3oQRVEp0I",
+    authDomain: "friendlychat-baywatch.firebaseapp.com",
+    projectId: "friendlychat-baywatch",
+    storageBucket: "friendlychat-baywatch.firebasestorage.app",
+    messagingSenderId: "351043171097",
+    appId: "1:351043171097:web:c33f9c20e00b68b2a68b88",
   },
 };
