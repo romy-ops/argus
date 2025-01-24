@@ -1,27 +1,35 @@
-# Friendlychat
+## Name
+ROMY AZRIL HAZEEQ BIN ROMY IZRILSYAIRI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+## Student ID
+2023438624
 
-## Development server
+## Group
+T5CDCS2703B1
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Lecturer Name
+SIR MUHAMMAD ATIF BIN RAMLAN
 
-## Code scaffolding
+## Project Background
+This project, titled "Angular Firebase Web Friendly Chat," focused on developing a web application using Angular and Firebase to simplify and streamline the development process. Angular was utilized for building reusable components and intuitive navigation, while Firebase provided essential backend services such as real-time databases, user authentication, hosting, and storage. By integrating these tools, the project addressed practical challenges, including handling real-time data updates, implementing a user login system, and supporting multiple users. This endeavor offered valuable hands-on experience with modern web development practices, enhancing problem-solving skills and emphasizing the importance of careful planning and dedication in creating robust applications. Ultimately, the project showcased the efficiency and effectiveness of Angular and Firebase in building high-quality web applications.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Discussion
+This project involved developing a web application using Angular and Firebase, tools designed to 
+simplify web development. Developers often face challenges such as creating a backend system, 
+managing databases, and hosting applications. Angular and Firebase work seamlessly together to 
+address these issues, making the development process more efficient.
+Angular excels at building web applications with reusable components and intuitive navigation, while 
+Firebase provides pre-built backend services like real-time databases, user authentication, hosting, 
+and storage. By combining these tools, developers can focus more on creating features rather than 
+managing servers and configurations.
+The goal of this project was to learn how to build a web app using Angular and Firebase while 
+addressing practical challenges such as handling real-time data updates, implementing a login 
+system, and supporting multiple users.
+Through this project, I realized the importance of carefully planning system configurations and 
+tackling technical problems methodically. It highlighted that building a quality web app is a timeintensive process requiring patience and dedication. Overall, this project provided valuable exposure 
+to modern web development practices and demonstrated the effectiveness of tools like Angular and 
+Firebase in creating high-quality applications.
+In conclusion, this project was a rewarding learning experience. I gained hands-on knowledge of web 
+development, improved my problem-solving skills, and developed a deeper appreciation for the time 
+and resources needed to create a robust app. Despite the challenges, I learned from each obstacle 
+and feel more confident in my abilities as a developer.
